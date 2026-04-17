@@ -40,9 +40,7 @@ Option A – NetBeans
 File ▸ Open Project… → select the cloned folder.
 Right-click project ➜ Run (NetBeans calls Ant targets automatically).
 Option B – Ant (CLI)
-bash
-Copy
-This code must not be included in production code and should be properly tagged in all non-production code. See the usage guidelines for detailed requirements.
+bash/batch commands or scripting
 
 # 1) Clean & compile
 ant clean jar
